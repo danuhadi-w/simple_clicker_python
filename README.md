@@ -5,4 +5,5 @@ so this is what it is (I was hoping to make it the same as Android's multi-touch
 
 ## Preview
 
-<img src="https://github.com/danuhadi-w/simple_clicker_python/assets/131933367/01221f9d-7f5d-4d07-951f-cf5acfcd3ed8" width="25%" height="25%">
+<img src="https://github.com/danuhadi-w/simple_clicker_python/assets/131933367/2a99d30a-8449-4e18-a27c-a711b2020c16" width="25%" height="25%">
+
